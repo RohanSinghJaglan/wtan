@@ -1,0 +1,18 @@
+{
+  "title": "Next.js UI - Pixel Perfect Implementation",
+  "description": "A beautiful, fast, and SEO-friendly Next.js implementation with responsive design.",
+  "keywords": ["Next.js", "React", "Tailwind CSS", "UI Design", "Web Development"],
+  "author": "Your Name",
+  "openGraph": {
+    "title": "Next.js UI - Modern Web Development",
+    "description": "Build amazing websites with Next.js and Tailwind CSS",
+    "type": "website",
+    "url": "https://your-domain.com",
+    "siteName": "Next.js UI"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@yourusername",
+    "creator": "@yourusername"
+  }
+} 
