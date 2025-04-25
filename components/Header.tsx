@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <header className="bg-white shadow-sm h-16 px-6 flex justify-between items-center">
       <div className="flex items-center">
-        <h1 className="text-lg font-semibold">Welcome, Ashraf</h1>
+        <h1 className="text-lg font-semibold">Welcome, Rohan</h1>
         <span className="ml-2 bg-blue-100 text-blue-700 text-xs px-2 py-1 rounded-full font-medium">Admin</span>
       </div>
       
